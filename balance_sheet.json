@@ -1,0 +1,21 @@
+{
+    "assets": {
+        "current_assets": {
+            "cash": 10
+        },
+        "longterm_assets": {
+            "buildings": 40
+        }
+    },
+    "liabilities": {
+        "current_liabilities": {
+            "accounts payable": 5
+        },
+        "longterm_liabilities": {
+            "debt": 15
+        }
+    },
+    "equity": {
+        "stonks!": 30
+    }
+}
